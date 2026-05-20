@@ -1,11 +1,11 @@
 {
   "repo_type": "CommonData",
   "project": "demo",
-  "version": "demo.0.2",
+  "version": "demo.1.0",
   "prev_version": "demo.0.2",
   "owner": "SHK",
   "last_modifier": "SunHak-MBD",
   "date": "2026-05-20",
   "last_commit_type": "feat",
-  "description": "Test"
+  "description": "Add Interface"
 }
